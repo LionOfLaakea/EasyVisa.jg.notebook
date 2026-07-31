@@ -1,3 +1,5 @@
+> **Archived (July 2026).** Great Learning coursework, kept for reference.
+
 # EasyVisa Classification: ML-Based Visa Application Prediction
 
 A comprehensive machine learning project predicting visa application certification outcomes and identifying key drivers of approval. This project leverages ensemble learning methods with extensive hyperparameter tuning to support OFLC (Office of Foreign Labor Certification) decision-making processes.
